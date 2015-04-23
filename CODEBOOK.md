@@ -24,7 +24,7 @@ The script run_analysis.R does the following.
 
 ## How run_analysis.R works
 
-* Set the working directory.
+* Samsung data have to be in the working directory.
 * Read the source data files located in (
     features.txt, 
     activity_labels.txt,

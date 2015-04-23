@@ -30,6 +30,6 @@ You should create one R script called *run_analysis.R* that does the following.
 
 ##Additional Information
 
-You can find additional information about the variables, data and transformations in the *CodeBook.md* file.
+You can find additional information about the variables, data and transformations in the *CODEBOOK.md* file.
 
 

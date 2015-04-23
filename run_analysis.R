@@ -1,6 +1,4 @@
 
-setwd("C:\\Coursera\\Getting and Cleaning Data\\Project\\UCI HAR Dataset")
-
 # 1. Merges the training and the test sets to create one data set.
 
 # Reading the data from files
